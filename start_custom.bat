@@ -1,0 +1,1 @@
+.\DedicatedCustomServer.Starter.exe /dedicatedcustomserverconfigfile tdm_config_custom.txt _MODULES_*Native*Multiplayer*DedicatedCustomServerHelper*_MODULES_

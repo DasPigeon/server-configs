@@ -1,0 +1,1 @@
+.\DedicatedCustomServer.Starter.exe /dedicatedcustomserverconfigfile config_skirmish.txt _MODULES_*Native*Multiplayer*_MODULES_

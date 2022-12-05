@@ -1,0 +1,30 @@
+ServerName OCE RELM Server
+GameType TeamDeathmatch
+Map scn_oldarena_tdm
+add_map_to_automated_battle_pool mp_tdm_map_004a
+add_map_to_automated_battle_pool mp_tdm_map_003
+add_map_to_automated_battle_pool mp_tdm_map_001_spring
+CultureTeam1 khuzait
+CultureTeam2 vlandia
+RespawnPeriodTeam1 3
+RespawnPeriodTeam2 3
+RoundPreparationTimeLimit 20
+MaxNumberOfPlayers 120
+AllowPollsToKickPlayers True
+AllowPollsToChangeMaps False
+FriendlyFireDamageMeleeFriendPercent 100
+FriendlyFireDamageMeleeSelfPercent 0
+FriendlyFireDamageRangedFriendPercent 100
+FriendlyFireDamageRangedSelfPercent 0
+MinNumberOfPlayersForMatchStart 2
+RoundTotal 9
+MapTimeLimit 60
+RoundTimeLimit 420
+WarmupTimeLimit 3
+NumberOfBotsTeam1 0
+NumberOfBotsTeam2 0
+port 7210
+SingleSpawn true
+set_automated_battle_count 100
+start_game
+enable_automated_battle_switching 

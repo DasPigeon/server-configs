@@ -1,0 +1,1 @@
+.\DedicatedCustomServer.Starter.exe /dedicatedcustomserverconfigfile battle_config_test_migration.txt _MODULES_*Native*Multiplayer*_MODULES_

@@ -1,0 +1,20 @@
+ServerName OCE The REALM
+GameType Battle
+Map Realm_Dodgeball001
+CultureTeam1 vlandia
+CultureTeam2 vlandia
+RoundPreparationTimeLimit 20
+MaxNumberOfPlayers 20
+AutoTeamBalanceThreshold 0
+FriendlyFireDamageMeleeFriendPercent 100
+FriendlyFireDamageMeleeSelfPercent 0
+FriendlyFireDamageRangedFriendPercent 100
+FriendlyFireDamageRangedSelfPercent 0
+MinNumberOfPlayersForMatchStart 0
+RoundTotal 5
+MapTimeLimit 60
+RoundTimeLimit 960
+WarmupTimeLimit 5
+SingleSpawn true
+UnlimitedGold true
+start_game_and_mission

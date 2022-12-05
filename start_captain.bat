@@ -1,0 +1,1 @@
+.\DedicatedCustomServer.Starter.exe /dedicatedcustomserverconfigfile captain_config.txt _MODULES_*Native*Multiplayer*_MODULES_

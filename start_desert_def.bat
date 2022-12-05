@@ -1,0 +1,1 @@
+.\DedicatedCustomServer.Starter.exe /dedicatedcustomserverconfigfile desert_bot_def.txt _MODULES_*Native*Multiplayer*DedicatedCustomServerHelper*_MODULES_

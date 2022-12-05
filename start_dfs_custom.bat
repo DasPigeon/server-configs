@@ -1,0 +1,1 @@
+.\DedicatedCustomServer.Starter.exe /dedicatedcustomserverconfigfile test_dfs_config.txt _MODULES_*Native*Multiplayer*DedicatedCustomServerHelper*_MODULES_

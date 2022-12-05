@@ -1,0 +1,1 @@
+.\DedicatedCustomServer.Starter.exe /dedicatedcustomserverconfigfile tdm_config_zombie.txt _MODULES_*Native*Multiplayer*ErebusMod*_MODULES_

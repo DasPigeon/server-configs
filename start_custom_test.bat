@@ -1,0 +1,1 @@
+.\DedicatedCustomServer.Starter.exe /dedicatedcustomserverconfigfile erebus_config.txt _MODULES_*Native*Multiplayer*ErebusMod*_MODULES_

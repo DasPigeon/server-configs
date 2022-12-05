@@ -1,0 +1,25 @@
+ServerName OCE RELM Warband Arena Server
+GameType TeamDeathmatch
+Map scn_Relm001
+GamePassword realm
+CultureTeam1 vlandia
+CultureTeam2 vlandia
+RespawnPeriodTeam1 3
+RespawnPeriodTeam2 3
+RoundPreparationTimeLimit 20
+MaxNumberOfPlayers 120
+AllowPollsToKickPlayers True
+AllowPollsToChangeMaps True
+FriendlyFireDamageMeleeFriendPercent 100
+FriendlyFireDamageMeleeSelfPercent 0
+FriendlyFireDamageRangedFriendPercent 100
+FriendlyFireDamageRangedSelfPercent 0
+MinNumberOfPlayersForMatchStart 2
+RoundTotal 9
+MapTimeLimit 60
+RoundTimeLimit 960
+WarmupTimeLimit 3
+NumberOfBotsTeam1 0
+NumberOfBotsTeam2 0
+UnlimitedGold True
+start_game_and_mission
