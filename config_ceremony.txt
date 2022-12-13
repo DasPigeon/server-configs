@@ -1,0 +1,11 @@
+ServerName OCE RELM Official Ceremony
+GameType Duel
+GamePassword realm
+add_map_to_automated_battle_pool mp_duel_001
+set_automated_battle_count 1
+disable_map_voting
+MapTimeLimit 60
+MaxNumberOfPlayers 32
+MinScoreToWinDuel 3
+start_game
+enable_automated_battle_switching
